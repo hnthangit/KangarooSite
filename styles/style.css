@@ -5,7 +5,7 @@
 }
 
 .maxwidth {
-  max-width: 83%;
+  width: 90%;
 }
 
 .tool {
@@ -128,5 +128,22 @@ ul {
 
 .danhmucsanpham a {
   color: white;
+}
+
+.footer1 ul {
+  margin-top: 1em;
+}
+
+.footer1 li {
+  padding-bottom: 0.5em;
+}
+
+.footer1 li a {
+  color: white;
+}
+
+.info a {
+  color: white;
+  margin-bottom: 1em;
 }
 /*# sourceMappingURL=style.css.map */

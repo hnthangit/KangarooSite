@@ -4,8 +4,10 @@
     }
 }
 
+
+
 .maxwidth {
-    max-width: 83%;
+    width: 90%;
 }
 
 .tool {
@@ -113,5 +115,29 @@ ul {
         color: white;
     }
     height: 52px;
+}
+
+.footer1{
+    ul{
+        margin-top: 1em;
+
+    }
+
+    li {
+        padding-bottom: 0.5em;
+        a{
+            color: white;
+        }
+    }
+
+    
+
+}
+
+.info{
+    a {
+        color: white;
+        margin-bottom: 1em;
+    }    
 }
 
